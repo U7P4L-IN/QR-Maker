@@ -1,38 +1,18 @@
-<p align="center">
-____Welcome____
-
-
-AUTHOR:
-<p align="center">
-ANONYMOUS U7P4L
-
-</br>
-<p align="center">
-      😺RANDOM OLD ID CLONING COMMAND😸
-</p>
+<div align="center">
   
-#### INSTALL TOOL ON TERMUX
-```python
- pkg update
- pkg upgrade
- pkg install python
- pkg install git
- pip install requests
- pip install bs4
- pip install futures
- pip install mechanize
- cd $HOME 
- git clone https://github.com/ANONYMOUS-U7P4L/BEST-FRND.git
-```
-#### RUN SCRIPT
-```python
- cd BEST-FRND 
+  ![GitHub repo size](https://img.shields.io/github/repo-size/U7P4L-IN/QR-Maker)
+  ![GitHub stars](https://img.shields.io/github/stars/U7P4L-IN/QR-Maker?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/U7P4L-IN/QR-Maker?style=social)
+ 
+  <br />
+  <br />
 
- python BEST.py
-```
+  <h2 align="center">QR Code Genarator Website</h2>
 
+  This Is A Fully Responsive QR Code Genarator Website,<br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-#### Tools Languages :
+  <a href="https://u7p4l-in.github.io/QR-Maker/"><strong>➥ Live Demo</strong></a>
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=ANONYMOUS-U7P4L&repo=BEST-FRND&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+</div>
 
+<br />
